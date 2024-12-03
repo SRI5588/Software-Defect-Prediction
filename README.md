@@ -1,6 +1,6 @@
 # Exploring Machine Learning Algorithms for Effective Analysis of Software Defect Prediction System
 
-his repository contains the code and documentation for a Software Defect Prediction (SDP) system using the NASA Software Metrics dataset from Kaggle. The system aims to predict software defects using machine learning techniques, leveraging various features such as code complexity, size, and change history.
+This repository contains the code and documentation for a Software Defect Prediction (SDP) system using the NASA Software Metrics dataset from Kaggle. The system aims to predict software defects using machine learning techniques, leveraging various features such as code complexity, size, and change history.
 
 1) Data Collection
 The dataset is imported from Kaggle, containing software metrics related to various software modules.
