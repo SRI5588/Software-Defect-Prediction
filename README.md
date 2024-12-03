@@ -5,8 +5,7 @@ This repository contains the code and documentation for a Software Defect Predic
 1) Data Collection
 The dataset is imported from Kaggle, containing software metrics related to various software modules.
 
-2. Data Preprocessing
-Preprocessing ensures the dataset is suitable for machine learning models:
+2. Data Preprocessing: Ensures the dataset is suitable for machine learning models:
 
 3) Importing the Data: NASA dataset with software quality measures.
 Exploratory Data Analysis (EDA): Visualizations (histograms, box plots, scatter matrices) are used to identify patterns, correlations, and outliers.
